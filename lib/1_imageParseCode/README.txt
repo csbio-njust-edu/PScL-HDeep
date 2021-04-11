@@ -1,0 +1,1 @@
+The pupose of "imageStats.m" is to identify badly stained images.
