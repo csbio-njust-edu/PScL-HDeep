@@ -5,22 +5,22 @@ There are two datasets:
 ### (1)	Train dataset
 The benchmark training dataset contains a total of 2,876 immunohistochemistry (IHC) images of 7 different protein subcellular locations selected from the human protein atlas (HPA) database.
 ### (2)	Independent dataset
-The independent dataset contains 107 IHC images of five different proteins selected from HPA.
+The independent dataset contains 107 IHC images of five different proteins selected from HPA. <br />
 Please download the datasets from "https://drive.google.com/drive/folders/1ExTtZ3bWlmHiBpUsKAvuf9cQ2ZeoF9Qm?usp=sharing" and copy it to "data" folder.
 ## (II)	lib
 lib folder contains all the code used in this study.
-Please visit "http://www.vlfeat.org/matconvnet" to download the matconvnet toolbox and dependencies and copy it to “\lib\3_featureCode\”.
+Please visit "http://www.vlfeat.org/matconvnet" to download the matconvnet toolbox and dependencies and copy it to “\lib\3_featureCode\”. <br />
 Please visit "http://www.csie.ntu.edu.tw/~cjlin/libsvm/" to download the LIBSVM toolbox for SVM classifier and copy it to “\lib\5_classifier\”.
 ## (III)	Biomage_Feature_Extraction.m
-Biomage_Feature_Extraction.m is the matlab file for extracting 
-(1)	DNA distribution features
-(2)	Haralick texture features 
-(3)	Local binary pattern
-(4)	Completed local binary patterns
-(5)	Rotation invariant co-occurrence of adjacent LBP
-(6)	Adaptive hybrid pattern
-(7)	Histogram of oriented gradients
-(8)	Locally encoded transform feature histogram and 
+Biomage_Feature_Extraction.m is the matlab file for extracting <br />
+(1)	DNA distribution features <br />
+(2)	Haralick texture features <br />
+(3)	Local binary pattern <br />
+(4)	Completed local binary patterns <br />
+(5)	Rotation invariant co-occurrence of adjacent LBP <br />
+(6)	Adaptive hybrid pattern <br />
+(7)	Histogram of oriented gradients <br />
+(8)	Locally encoded transform feature histogram and <br /> 
 (9)	deep learned features
 ## (IV)	CrossValidation.m
 crossValidation.m is the matlab file that divides the training dataset randomly into 10 equal sub parts.
