@@ -21,7 +21,7 @@ Biomage_Feature_Extraction.m is the matlab file for extracting <br />
 (6)	Adaptive hybrid pattern <br />
 (7)	Histogram of oriented gradients <br />
 (8)	Locally encoded transform feature histogram and <br /> 
-(9)	deep learned features
+(9)	Deep learned features
 ## (IV)	CrossValidation.m
 crossValidation.m is the matlab file that divides the training dataset randomly into 10 equal sub parts.
 ## (V)	Feature_Selection_SDA.m
