@@ -1,5 +1,5 @@
 # PScL-HDeep
-The code is the implementation of our method described in the paper “Matee Ullah, Fazal Hadi, Jian Xu, Jiangning Song, Dong-Jun Yu, PScL-HDeep: An Image-based prediction of protein subcellular location in human tissue using ensemble learning of optimized handcrafted and deep features with 2L feature selection”.
+The code is the implementation of our method described in the paper “Matee Ullah, Fazal Hadi, Jian Xu, Jiangning Song, Dong-Jun Yu, PScL-HDeep: Image-based prediction of protein subcellular location in human tissue using ensemble learning of optimized handcrafted and deep features with 2L feature selection”.
 ## (I)	data
 There are two datasets:
 ### (1)	Train dataset
