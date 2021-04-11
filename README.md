@@ -8,7 +8,7 @@ The benchmark training dataset contains a total of 2,876 immunohistochemistry (I
 The independent dataset contains 107 IHC images of five different proteins selected from HPA. <br />
 Please download the datasets from "https://drive.google.com/drive/folders/1ExTtZ3bWlmHiBpUsKAvuf9cQ2ZeoF9Qm?usp=sharing" and copy it to "data" folder.
 ## (II)	lib
-lib folder contains all the code used in this study.
+lib folder contains all the code used in this study.<br />
 Please visit "http://www.vlfeat.org/matconvnet" to download the matconvnet toolbox and dependencies and copy it to “\lib\3_featureCode\”. <br />
 Please visit "http://www.csie.ntu.edu.tw/~cjlin/libsvm/" to download the LIBSVM toolbox for SVM classifier and copy it to “\lib\5_classifier\”.
 ## (III)	Biomage_Feature_Extraction.m
